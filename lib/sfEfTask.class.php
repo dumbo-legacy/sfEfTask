@@ -5,7 +5,6 @@
  * Class to run a symfony task.
  *
  * @package    sfEfTask
- * @subpackage 
  * @author     Yaismel Miranda Pons <yaismelmp@googlemail.com>
  * @version    1.0
  */
